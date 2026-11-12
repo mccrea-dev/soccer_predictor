@@ -1,0 +1,35 @@
+Date,Game,Pred Winner (Market),Pred Winner (Model),Actual Winner,O/U 2.5 (Model),P(Over),Total Goals
+2026-06-26,Norway - France,France,France,France,Over,0.493,5.0
+2026-06-26,Senegal - Iraq,Senegal,Senegal,Senegal,Under,0.407,5.0
+2026-06-27,Cabo Verde - Saudi Arabia,Saudi Arabia,Draw,Draw,Under,0.337,0.0
+2026-06-27,Colombia - Portugal,Portugal,Portugal,Draw,Under,0.407,0.0
+2026-06-27,Croatia - Ghana,Croatia,Croatia,Croatia,Under,0.407,3.0
+2026-06-27,DR Congo - Uzbekistan,DR Congo,DR Congo,DR Congo,Under,0.337,4.0
+2026-06-27,Egypt - Iran,Egypt,Draw,Draw,Under,0.391,2.0
+2026-06-27,New Zealand - Belgium,Belgium,Belgium,Belgium,Over,0.493,6.0
+2026-06-27,Panama - England,England,England,England,Over,0.493,2.0
+2026-06-27,Uruguay - Spain,Spain,Spain,Spain,Under,0.407,1.0
+2026-06-28,Algeria - Austria,Draw,Austria,Draw,Over,0.493,6.0
+2026-06-28,Jordan - Argentina,Argentina,Argentina,Argentina,Over,0.493,4.0
+2026-06-28,South Africa - Canada,Canada,Canada,Canada,Under,0.391,1.0
+2026-06-29,Brazil - Japan,Brazil,Brazil,Brazil,Over,0.493,3.0
+2026-06-30,Côte d'Ivoire - Norway,Norway,Norway,,Under,0.407,
+2026-06-30,France - Sweden,France,France,,Over,0.563,
+2026-06-30,Netherlands - Morocco,Netherlands,Draw,Draw,Under,0.407,2.0
+2026-07-01,Belgium - Senegal,Belgium,Belgium,,Over,0.493,
+2026-07-01,England - DR Congo,England,England,,Under,0.391,
+2026-07-01,Mexico - Ecuador,Mexico,Mexico,,Under,0.337,
+2026-07-02,Portugal - Croatia,Portugal,Portugal,,Over,0.493,
+2026-07-02,Spain - Austria,Spain,Spain,,Over,0.493,
+2026-07-02,United States - Bosnia & Herzegovina,United States,United States,,Over,0.493,
+2026-07-03,Argentina - Cabo Verde,Argentina,Argentina,,Over,0.493,
+2026-07-03,Australia - Egypt,Egypt,Australia,,Under,0.337,
+2026-07-03,Switzerland - Algeria,Switzerland,Switzerland,,Over,0.493,
+2026-07-04,Canada - Morocco,Morocco,Morocco,,Under,0.337,
+2026-07-04,Colombia - Ghana,Colombia,Colombia,,Under,0.412,
+2026-07-06,Portugal - Spain,Spain,Spain,,Over,0.493,
+2026-07-07,Argentina - Egypt,Argentina,Argentina,,Under,0.398,
+2026-07-07,Switzerland - Colombia,Colombia,Colombia,,Over,0.493,
+2026-07-07,United States - Belgium,United States,Belgium,,Over,0.493,
+2026-07-09,France - Morocco,France,France,,Under,0.398,
+2026-07-11,Norway - England,England,England,,Over,0.493,

@@ -1,0 +1,35 @@
+date,game,market_pick,model_pick,actual,total_goals,model_ou,ou_actual,replay_pick,model_correct,market_correct,replay_correct,ou_correct
+2026-06-26,Norway - France,France,France,France,5,Over,Over,France,1,1,1,1
+2026-06-26,Senegal - Iraq,Senegal,Senegal,Senegal,5,Under,Over,Senegal,1,1,1,0
+2026-06-27,Cabo Verde - Saudi Arabia,Saudi Arabia,Draw,Draw,0,Under,Under,Cabo Verde,1,0,0,1
+2026-06-27,Colombia - Portugal,Portugal,Portugal,Draw,0,Under,Under,Colombia,0,0,0,1
+2026-06-27,Croatia - Ghana,Croatia,Croatia,Croatia,3,Under,Over,Croatia,1,1,1,0
+2026-06-27,DR Congo - Uzbekistan,DR Congo,DR Congo,DR Congo,4,Under,Over,DR Congo,1,1,1,0
+2026-06-27,Egypt - Iran,Egypt,Draw,Draw,2,Under,Under,Egypt,1,0,0,1
+2026-06-27,New Zealand - Belgium,Belgium,Belgium,Belgium,6,Over,Over,Belgium,1,1,1,1
+2026-06-27,Panama - England,England,England,England,2,Over,Under,England,1,1,1,0
+2026-06-27,Uruguay - Spain,Spain,Spain,Spain,1,Under,Under,Spain,1,1,1,1
+2026-06-28,Algeria - Austria,Draw,Austria,Draw,6,Over,Over,Austria,0,1,0,1
+2026-06-28,Jordan - Argentina,Argentina,Argentina,Argentina,4,Over,Over,Argentina,1,1,1,1
+2026-06-28,South Africa - Canada,Canada,Canada,Canada,1,Under,Under,Canada,1,1,1,1
+2026-06-29,Brazil - Japan,Brazil,Brazil,Brazil,3,Over,Over,Brazil,1,1,1,1
+2026-06-30,Côte d'Ivoire - Norway,Norway,Norway,Norway,3,Under,Over,Norway,1,1,1,0
+2026-06-30,France - Sweden,France,France,France,3,Over,Over,France,1,1,1,1
+2026-06-30,Netherlands - Morocco,Netherlands,Draw,Draw,2,Under,Under,Netherlands,1,0,0,1
+2026-07-01,Belgium - Senegal,Belgium,Belgium,Belgium,5,Over,Over,Belgium,1,1,1,1
+2026-07-01,England - DR Congo,England,England,England,3,Under,Over,England,1,1,1,0
+2026-07-01,Mexico - Ecuador,Mexico,Mexico,Mexico,2,Under,Under,Mexico,1,1,1,1
+2026-07-02,Portugal - Croatia,Portugal,Portugal,Portugal,3,Over,Over,Portugal,1,1,1,1
+2026-07-02,Spain - Austria,Spain,Spain,Spain,3,Over,Over,Spain,1,1,1,1
+2026-07-02,United States - Bosnia & Herzegovina,United States,United States,United States,2,Over,Under,United States,1,1,1,0
+2026-07-03,Argentina - Cabo Verde,Argentina,Argentina,Argentina,5,Over,Over,Argentina,1,1,1,1
+2026-07-03,Australia - Egypt,Egypt,Australia,Draw,2,Under,Under,Australia,0,0,0,1
+2026-07-03,Switzerland - Algeria,Switzerland,Switzerland,Switzerland,2,Over,Under,Switzerland,1,1,1,0
+2026-07-04,Canada - Morocco,Morocco,Morocco,Morocco,3,Under,Over,Morocco,1,1,1,0
+2026-07-04,Colombia - Ghana,Colombia,Colombia,Colombia,1,Under,Under,Colombia,1,1,1,1
+2026-07-06,Portugal - Spain,Spain,Spain,Spain,1,Over,Under,Spain,1,1,1,0
+2026-07-07,Argentina - Egypt,Argentina,Argentina,Argentina,5,Under,Over,Argentina,1,1,1,0
+2026-07-07,Switzerland - Colombia,Colombia,Colombia,Draw,0,Over,Under,Colombia,0,0,0,0
+2026-07-07,United States - Belgium,United States,Belgium,Belgium,5,Over,Over,Belgium,1,0,1,1
+2026-07-09,France - Morocco,France,France,France,2,Under,Under,France,1,1,1,1
+2026-07-11,Norway - England,England,England,England,3,Over,Over,England,1,1,1,1

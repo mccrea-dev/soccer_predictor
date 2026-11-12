@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Rebuilt by the pipeline (see README), so not tracked
+data/raw/
+data/*.db
+data/api_quota.json
+data/alerts.log
+models/
+
+# Secrets and OS clutter
+.env
+.DS_Store

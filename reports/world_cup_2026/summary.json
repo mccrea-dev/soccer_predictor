@@ -1,0 +1,51 @@
+{
+  "matches": 104,
+  "winner_accuracy": 0.6730769230769231,
+  "winner_accuracy_ci95": [
+    0.5769230769230769,
+    0.7596153846153846
+  ],
+  "over_under_accuracy": 0.5865384615384616,
+  "exact_score_accuracy": 0.10576923076923077,
+  "draws": 24,
+  "goals_per_match": 2.9615384615384617,
+  "expected_goals_per_match": 2.4552538461538465,
+  "models": {
+    "Winner model": {
+      "accuracy": 0.6730769230769231,
+      "rps": 0.15067760525563315,
+      "log_loss": 0.8272651785298815,
+      "brier": 0.4809908870741004
+    },
+    "Dixon-Coles": {
+      "accuracy": 0.6346153846153846,
+      "rps": 0.16740663628760188,
+      "log_loss": 0.8694015472699076,
+      "brier": 0.5115677432782371
+    },
+    "Elo logistic": {
+      "accuracy": 0.6442307692307693,
+      "rps": 0.16001026614788813,
+      "log_loss": 0.8531689981575497,
+      "brier": 0.5004614032039676
+    },
+    "Base rates": {
+      "accuracy": 0.47115384615384615,
+      "rps": 0.22950295579507382,
+      "log_loss": 1.0545954729250187,
+      "brier": 0.636537580936168
+    },
+    "Higher Elo wins": {
+      "accuracy": 0.6538461538461539,
+      "rps": null,
+      "log_loss": null,
+      "brier": null
+    }
+  },
+  "live_log": {
+    "matches": 34,
+    "model_accuracy": 0.8823529411764706,
+    "market_accuracy": 0.7941176470588235,
+    "replay_accuracy": 0.7941176470588235
+  }
+}
